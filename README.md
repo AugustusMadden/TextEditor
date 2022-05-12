@@ -1,6 +1,35 @@
 # TextEditor
 
-## License
+  ## Description
+  Programmable web application capable of functioning online or offline. Heavily relies on Babel, Concurrently, and the webpack suite for building modules, syntax management, and general optimization. 
+  
+  ## Table of Contents
+  - [Installation and Usage](#installation-and-usage)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#License)
+  
+  ## Installation and Usage
+  For Web-based and offline use:
+
+      - Head to https://dry-river-02816.herokuapp.com/
+      - To use offline, click the `Install!` Button in the top-left corner
+   
+   To add the application file directly to your desktop:
+
+      - Go to https://github.com/AugustusMadden/TextEditor
+      - Press the green code button on the top-right.
+      - Open Terminal/GitBash, and navigate to the space where you want the file to exist.
+      - Use the command `git clone <url>` and download.
+      - Open the folder in VS Code or your preferred coding software
+      - Run the commands `npm install` and `npm run start`
+  
+
+    
+  ## Credits
+   Thanks to MDN and W3 for support documentation.
+
+  ## License
 
                                  Apache License
                            Version 2.0, January 2004
